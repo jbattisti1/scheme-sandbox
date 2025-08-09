@@ -1,0 +1,6 @@
+{
+    "image": "schemers/mit-scheme:latest",
+    "features": {
+        "ghcr.io/devcontainers/features/git:1": {}
+    }
+}
